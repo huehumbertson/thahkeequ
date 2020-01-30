@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://choozochi.yaml.us/sitemap.xml
